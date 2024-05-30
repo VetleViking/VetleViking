@@ -6,5 +6,6 @@
         <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=VetleViking&theme=transparent" align="right"/>
     </a>
 </div>
-
-![](https://komarev.com/ghpvc/?username=VetleViking)
+<div align="center">
+    ![](https://komarev.com/ghpvc/?username=VetleViking)
+</div>
