@@ -11,10 +11,10 @@ I'm Vetle from Norway<br><br>- 👨🏼‍💻 I’m working as an Intern at Cod
 ###
 
 <details>
-  <summary>🛠 My Tech Stack</summary>
+<summary><h2><a href="#">&#x200B;</a>🛠 My Tech Stack</h2></summary>
 
 
-<h4 align="left">💻 Programming Languages</h3>
+<h3 align="left">💻 Programming Languages</h3>
 
 ###
 
