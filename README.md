@@ -103,7 +103,8 @@ I'm Vetle from Norway<br><br>- 👨🏼‍💻 I’m working as an Intern at [Co
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<details>
+<summary><h2><a href="#">&#x200B;</a>🔥   My Stats</h2></summary>
 
 ###
 
@@ -119,12 +120,14 @@ I'm Vetle from Norway<br><br>- 👨🏼‍💻 I’m working as an Intern at [Co
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=vetlelind&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+</details>
 
 ###
 
 <div align="center">
   <img  src="https://komarev.com/ghpvc/?username=VetleViking"/>
 </div>
+
 
 <!--
 ###
