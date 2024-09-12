@@ -6,7 +6,7 @@
 
 ###
 
-I'm Vetle from Norway<br><br>- 👨🏼‍💻 I’m working as an Intern at Codeo<br>- 🌱 I'm currently learning NextJs<br>- ⚡ In my free time I like to snowboard and work out<br>- 🔭 I’m currently working on [an OS in C and ASM](https://github.com/VetleViking/os)
+I'm Vetle from Norway<br><br>- 👨🏼‍💻 I’m working as an Intern at Codeo<br>- 🌱 I'm currently learning NextJs<br>- ⚡ In my free time I like to snowboard and work out<br>- 🔭 I’m currently working on [an OS in C and ASM](https://github.com/VetleViking/os) and [A website for car spots](https://github.com/VetleViking/CarSpottingApp)
 
 ###
 
