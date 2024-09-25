@@ -6,12 +6,12 @@
 
 ###
 
-I'm Vetle from Norway<br><br>- 👨🏼‍💻 I’m working as an Intern at [Codeo](https://codeo.no)<br>- 🌱 I'm currently learning NextJs<br>- ⚡ In my free time I like to snowboard and work out<br>- 🔭 I’m currently working on [an OS in C and ASM](https://github.com/VetleViking/os) and [A website for car spots](https://github.com/VetleViking/CarSpottingApp)
+I'm Vetle from Norway<br><br>- 👨🏼‍💻 I’m working as an Intern at [Codeo](https://codeo.no)<br>- 🌱 I'm currently learning NextJs<br>- ⚡ In my free time I like to snowboard and work out<br>- 🔭 I’m currently working on [An OS in C and ASM](https://github.com/VetleViking/os) and [A website for car spots](https://github.com/VetleViking/CarSpottingApp)
 
 ###
 
 <details>
-<summary><h2><a href="#">&#x200B;</a>🛠 My Tech Stack</h2></summary>
+<summary><h2>🛠 My Tech Stack</h2></summary>
 <h3 align="left">💻 Programming Languages</h3>
 
 ###
@@ -103,7 +103,7 @@ I'm Vetle from Norway<br><br>- 👨🏼‍💻 I’m working as an Intern at [Co
 ###
 
 <details>
-<summary><h2><a href="#">&#x200B;</a>🔥   My Stats</h2></summary>
+<summary><h2>🔥   My Stats</h2></summary>
 
 ###
 
