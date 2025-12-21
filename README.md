@@ -12,7 +12,7 @@ I'm Vetle from Norway<br><br>- 👨🏼‍💻 I’m working as an Intern at [Co
 
 ###
 
-<div align="left">
+<div>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /></a>
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /></a>
@@ -30,11 +30,11 @@ I'm Vetle from Norway<br><br>- 👨🏼‍💻 I’m working as an Intern at [Co
 
 ###
 
-<h3 align="left">🚀 Frameworks</h3>
+<h3>🚀 Frameworks</h3>
 
 ###
 
-<div align="left">
+<div>
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" /></a>
   <img width="12" />
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></a>
@@ -52,11 +52,11 @@ I'm Vetle from Norway<br><br>- 👨🏼‍💻 I’m working as an Intern at [Co
 
 ###
 
-<h3 align="left">💾 Databases</h3>
+<h3>💾 Databases</h3>
 
 ###
 
-<div align="left">
+<div>
   <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" /></a>
   <img width="12" />
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" /></a>
@@ -68,11 +68,11 @@ I'm Vetle from Norway<br><br>- 👨🏼‍💻 I’m working as an Intern at [Co
 
 ###
 
-<h3 align="left">🧰 Development Tools & Platforms</h3>
+<h3>🧰 Development Tools & Platforms</h3>
 
 ###
 
-<div align="left">
+<div>
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /></a>
   <img width="12" />
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" /></a>
