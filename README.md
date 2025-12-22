@@ -1,4 +1,4 @@
-<h2 align="left">About Me</h2>
+<h2>About Me</h2>
 
 ###
 
@@ -8,7 +8,7 @@ I'm Vetle from Norway<br><br>- 👨🏼‍💻 I’m working as an Intern at [Co
 
 <details>
 <summary><h2>🛠 My Tech Stack</h2></summary>
-<h3 align="left">💻 Programming Languages</h3>
+<h3>💻 Programming Languages</h3>
 
 ###
 
