@@ -128,7 +128,6 @@ I'm Vetle from Norway<br><br>- 👨🏼‍💻 I’m working as an Intern at [Co
   <img  src="https://komarev.com/ghpvc/?username=VetleViking"/>
 </div>
 
-
 <!--
 ###
 <div align="center">
